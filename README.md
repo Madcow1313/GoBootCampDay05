@@ -1,4 +1,4 @@
-# Day 05 - Go Piscine
+# Day 05 - Go Intensive
 
 ## Santa is back in town 
 

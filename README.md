@@ -1,4 +1,4 @@
-# Day 05 - Go Intensive
+# Day 05 - Go Boot camp
 
 ## Santa is back in town 
 
